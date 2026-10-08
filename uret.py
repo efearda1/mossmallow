@@ -4,7 +4,7 @@ G=[
  ("puffy-oven","Puffy Oven","Kabarık Fırın",True,"Reklamları kaldır, 10 ipucu","Remove ads, 10 hints","açılan tarifler, yıldızlar, ses ayarı","unlocked recipes, stars, sound settings","ipucu","hints"),
  ("alchemist-tavern","Alchemist Tavern","Alchemist Tavern",True,"Reklamları kaldır, elmas paketleri","Remove ads, gem packs","hanın, altının, elmasların, ayarlar","your tavern, gold, gems, settings","çevrimdışı kazanç ve elmas","offline earnings and gems"),
  ("fjordlings","Fjordlings: Viking Defense","Fjordlings",True,"Reklamları kaldır, altın paketi","Remove ads, gold pack","köyün, baskın ilerlemen, ayarlar","your village, raid progress, settings","ganimet ve altın","loot and gold"),
- ("beacon-way","Beacon Way","Fener Yolu",False,"Tam oyun (tek seferlik)","Full game (one-time)","hikâye ilerlemen, topladıkların, ayarlar","story progress, collectibles, settings","",""),
+ ("beacon-way","Beacon Way","Fener Yolu",True,"Reklamları kaldır","Remove ads","hikâye ilerlemen, topladıkların, ayarlar","story progress, collectibles, settings","ipucu ve deniz camı","hints and sea glass"),
  ("waffle-wonders","Waffle Wonders","Waffle Wonders",True,"Reklamları kaldır, jeton paketleri, şef paketi","Remove ads, coin packs, chef pack","dükkânın, günler, jetonlar, ayarlar","your shop, days, coins, settings","bahşiş ve jeton","tips and coins"),
 ]
 CSS="body{font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px;line-height:1.6;color:#3a2a22;background:#fff8ec}h1{font-size:1.6em}h2{margin-top:1.6em;border-bottom:2px solid #e8a94b}a{color:#b5562f}.k{color:#7a6a60;font-size:.9em}"
